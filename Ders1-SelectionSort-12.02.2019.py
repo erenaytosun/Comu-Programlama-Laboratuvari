@@ -1,5 +1,5 @@
 
-#    selection sort
+#    Selection Sort
 
 def mySearchSelection(my_array):
     swap_sayisi = 0
