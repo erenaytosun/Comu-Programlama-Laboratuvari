@@ -1,5 +1,5 @@
 
-# BiNARY Search
+# BiNARY SEARCH
 
 def my_binary_search(my_sorted_array,item):
     first=0
